@@ -52,6 +52,9 @@ and functionality.
  If successful, you should receive a message and response as following
 <img width="996" alt="Screen Shot 2024-12-01 at 12 36 39 PM" src="https://github.com/user-attachments/assets/271357d9-752f-4e30-b3cb-0c670ff1e696">
 
+<img width="380" alt="Screen Shot 2024-12-01 at 3 16 39 PM" src="https://github.com/user-attachments/assets/b3f499bc-cc4d-4518-a51e-1fa5931e336c">
+
+
 ## Conclusion:
 This project illustrates how to integrate Twilio's SMS service with .NET 8 Web API, providing a simple yet powerful solution to send SMS messages programmatically. 
 
