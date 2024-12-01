@@ -36,12 +36,13 @@ and functionality.
       "PhoneNumber": "your_twilio_phone_number"
     }
   }
-```
+  ```
 * Testing the API
   Run the application and test it with an HTTP client like Postman or Swagger.
 
   POST /api/sms/send
   Request Body (JSON):
+
   ```
   {
     "to": "+1234567890",
@@ -50,7 +51,6 @@ and functionality.
   ```
  If successful, you should receive a message and response as following
 <img width="996" alt="Screen Shot 2024-12-01 at 12 36 39 PM" src="https://github.com/user-attachments/assets/271357d9-752f-4e30-b3cb-0c670ff1e696">
-![IMG_4680](https://github.com/user-attachments/assets/8397e8f8-5620-47d7-a5cb-a709e6992328)
 
 ## Conclusion:
 This project illustrates how to integrate Twilio's SMS service with .NET 8 Web API, providing a simple yet powerful solution to send SMS messages programmatically. 
