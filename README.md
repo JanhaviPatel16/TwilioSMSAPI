@@ -46,7 +46,7 @@ and functionality.
   ```
   {
     "to": "+1234567890",
-    "message": "Hello from .NET 8 and Twilio API!"
+    "message": "Hello Testing Twilio API!"
   }
   ```
  If successful, you should receive a message and response as following
